@@ -1,5 +1,6 @@
 
-## 🙋‍ [Discussion Forum](https://github.com/orgs/debate/discussions)  📚  [Evidence Caselist](https://opencaselist.com/) 📜  [Debate Neural Net Idea Paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.07251.pdf)
+## 🙋‍ [Discussion Forum](https://github.com/orgs/debate/discussions)  📚  [Evidence Caselist](https://opencaselist.com/)
+📜  [Debate Neural Net Idea Paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.07251.pdf)
 
 
 The overall mission is a dataset of debate evidence to train ChatGPT to recommend arguments and to reason through logical assumptions.
