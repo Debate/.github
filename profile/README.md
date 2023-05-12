@@ -1,15 +1,9 @@
 
 ## [Discussion Forum](https://github.com/orgs/debate/discussions) 🙋‍
 
+The overall mission is to produce dataset to train ChatGPT to recommend evidence and invent AI that can reason through any argument.
 
-
-**The overall mission of online research and streaming:
-
-1.  Produce evidence as dataset to train ChatGPT AI to recommend evidence to debate any argument
-
-2.  Create a social network of research teams  a
-
-3.  A crowd-sourced caselist mind-map of latest evidence.**
+This app will use a social network of research sharing teams and a crowd-sourced caselist mind-map of latest evidence.
 
 
 
