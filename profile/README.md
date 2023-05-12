@@ -10,10 +10,10 @@
 
 <table>
 <tr>
- <td> **Chrome Apps**
- <td>** Web Server Apps**
- <td> **Desktop **
- <td> **Other **
+ <td> Chrome Apps
+ <td> Web Server Apps
+ <td> Desktop 
+ <td> Other 
 <tr>
  <td> debate ai
  <td> tabroom 
