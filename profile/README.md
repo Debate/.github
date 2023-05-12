@@ -1,7 +1,7 @@
 
 ## [Discussion Forum](https://github.com/orgs/debate/discussions) 🙋‍
 
-The overall mission is to produce dataset of debate evidence to train ChatGPT to recommend arguments and invent AI capable of reasoning though logical assumptions. This is a collection of apps and aims to  build a social network of research sharing teams and a crowd-sourced caselist mind-map of latest evidence. [Debate Card Neural Nets idea paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.07251.pdf)
+The overall mission is to produce dataset of debate evidence to train ChatGPT to recommend arguments and invent AI capable of reasoning though logical assumptions. Current projects are listed below and the goal is a social network of research sharing teams and a crowd-sourced caselist mind-map of latest evidence. [Debate Card Neural Nets idea paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.07251.pdf)
 
 
 
