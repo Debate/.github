@@ -3,7 +3,7 @@
 
 
 The overall mission is a dataset of debate evidence to train ChatGPT to recommend arguments and to reason through logical assumptions.
-Current projects are listed below and the goal is a social network of research sharing teams and a crowd-sourced [caselist](https://opencaselist.com/) and mind-map of latest evidence. 
+Current projects are listed below and the goal is a social network of high school and college debaters and research-sharing teams and a crowd-sourced [caselist](https://opencaselist.com/) and mind-map of latest evidence. 
 
 
 
