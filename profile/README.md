@@ -3,7 +3,13 @@
 
 
 
-**The overall mission of crowd-sourced collaborative debate research and streaming is to create dataset to train ChatGPT AI to recommend evidence to debate any argument, and to  create a social network of research teams  and a crowd-sourced caselist mind-map of latest evidence.**
+**The overall mission of online research and streaming:
+
+1.  Produce evidence as dataset to train ChatGPT AI to recommend evidence to debate any argument
+
+2.  Create a social network of research teams  a
+
+3.  A crowd-sourced caselist mind-map of latest evidence.**
 
 
 
