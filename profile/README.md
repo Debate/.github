@@ -4,7 +4,7 @@
 
 
 The overall mission is a dataset of debate evidence to train ChatGPT to recommend arguments and to reason through logical assumptions.
-Current projects are listed below and the goal is a social network of 1000s high school and college debaters and research-sharing teams and a crowd-sourced [caselist](https://opencaselist.com/) and mind-map of latest evidence. 
+Current projects are listed below and the goal is a social network of 10000+ student debaters and research-sharing teams and a crowd-sourced [caselist](https://opencaselist.com/) and mind-map of latest evidence. 
 
 
 
@@ -19,7 +19,7 @@ Current projects are listed below and the goal is a social network of 1000s high
  <td> debate ai streamer
  <td> tabroom.com
  <td> verbatim 
- <td> db8bot 
+ <td>  cardr
 <tr>
  <td> Cite-Creator
  <td> caselist.com
@@ -28,6 +28,6 @@ Current projects are listed below and the goal is a social network of 1000s high
 <tr>
  <td> Debate Timer 
  <td> debatemap.app
- <td> debatekeeper 
+ <td>  db8bot
  <td>  CX_DB8 Summarizer
 
