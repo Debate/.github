@@ -1,10 +1,9 @@
 
-## 🙋‍ [Discussion Forum](https://github.com/orgs/debate/discussions)  📚  [Research Output](https://opencaselist.com/)
+# 🙋‍ [Discussion Forum](https://github.com/orgs/debate/discussions)  📚  [Research Output](https://opencaselist.com/)
 📜  [Debate Neural Net Idea Paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.07251.pdf)
 
 
-The overall mission is a dataset of debate evidence to train ChatGPT to recommend arguments and to reason through logical assumptions.
-Current projects are listed below and the goal is a social network of 10,000 student debaters and research-sharing teams and a crowd-sourced [caselist](https://opencaselist.com/) and mind-map of latest evidence. 
+### Plan: The debate community of student research teams should share disclosing research for a dataset of debate evidence to train ChatGPT to recommend arguments and to reason through logical assumptions.
 
 
 
