@@ -3,7 +3,7 @@
 📜  [Debate Neural Net Idea Paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.07251.pdf)
 
 
-### Plan: The debate community of student research teams should share disclosing research for a dataset of debate evidence to train ChatGPT to recommend arguments and to reason through logical assumptions.
+### Plan: The community of student debate teams should disclose research for a training dataset for ChatGPT to recommend arguments and to reason through logical assumptions.
 
 
 
