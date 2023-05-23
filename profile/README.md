@@ -1,6 +1,7 @@
 
 # 🙋‍ [Discussion Forum](https://github.com/orgs/debate/discussions)  📚  [Research Output](https://opencaselist.com/)
 📜  [Debate Neural Net Idea Paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.07251.pdf)
+[Open AI Debate AI paper](https://arxiv.org/pdf/1805.00899.pdf)
 
 
 ### Plan: The community of student debate teams should disclose research for a training dataset for ChatGPT to recommend arguments and to reason through logical assumptions.
